@@ -1,0 +1,27 @@
+# Nechesov Andrey http://fb.com/Nechesov
+# PRCR.org - ICO Bussines Platform
+
+PRCR.org - is the best ICO Platform for business. 
+PRCR help companies create own ICO and rase money.
+
+A token holder that receives his token can start trading them instantly. 
+
+Also holders can sell tokens use PRCR token contract. 
+They can create orders on SELL and set Price. 
+And Buyer can buy token send money on contract.
+It's unic system for trading! In first setup on Token Contracts.
+
+In first time users get bonuses for tokens. 
+
+PRCR Token Sale Details:
+
+1) ETH = 100 CTR Tokens
+2) Pre-ICO of Crowd Sale - 25% Bonus
+3) First 2 Days of Crowd Sale - 20% Bonus
+4) Days 3-7 of Crowd Sale - 10% Bonus
+5) Days 8-14 of Crowd Sale - 5% Bonus
+
+Investment model:
+
+1) 50% all PRCR income go to the Token Holders!
+2) Top Tokens Holders can receive access on main Pre-ICO our companies.
