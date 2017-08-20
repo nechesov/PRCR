@@ -1,6 +1,6 @@
 pragma solidity ^0.4.15;
 
-contract Main {
+contract Lib {
 
 	function transfer() returns (uint val) {          
 
