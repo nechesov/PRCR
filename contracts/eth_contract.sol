@@ -4,7 +4,7 @@ contract Main {
 
 	function transfer() returns (uint val) {          
 
-		val = 10;
+		val = 11;
 
         return val; 
       }
